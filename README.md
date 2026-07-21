@@ -2,8 +2,7 @@
 <h3 align="center">Software Engineer from Ecuador 🇪🇨</h3>
 
 <p align="center">
-  Full Stack Software Engineer specializing in Backend Architecture, Microservices, and Distributed Systems.
-  Experienced in building real-time GPS fleet tracking platforms, IoT/WebSocket integrations, high-concurrency event platforms, and cross-platform mobile apps.
+  Software Engineer specialized in scalable backend systems, microservices, and modern web & mobile applications.
 </p>
 
 <p align="center">
